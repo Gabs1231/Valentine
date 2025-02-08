@@ -102,7 +102,7 @@ body {
 
 .ml11 {
     font-weight: 700;
-    font-size: 2em;
+    font-size: 1.6em;
 }
 
 .ml11 .text-wrapper {
@@ -154,7 +154,7 @@ body {
 
 .ml2 {
     font-weight: 900;
-    font-size: 2em;
+    font-size: 1.6em;
 }
 
 .ml2 .letter {
@@ -236,7 +236,7 @@ body {
 }
 
 .ml13 {
-    font-size: 1.3em;
+    font-size: 1em;
     text-transform: uppercase;
     font-weight: bold;
 }
